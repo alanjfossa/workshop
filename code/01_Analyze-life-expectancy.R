@@ -17,7 +17,6 @@ library(tidyverse)
 library(broom)
 
 #Changed my code a little.
-#Changed code a little more.
 
 # Data import
 le_data <- read_csv("./data/Life-expectancy-by-state-long.csv")
